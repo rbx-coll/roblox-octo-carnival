@@ -62,3 +62,6 @@
 <img src="https://img.shields.io/badge/Script-Silent%20Aim%20%2B%20ESP%20%2B%20No%20Recoil-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Undetected%20December%202025-success?style=for-the-badge"/>
 </div>
+
+
+31 01 2026
